@@ -1,3 +1,6 @@
+
+<h2>Teorias</h2>>
+
 SSR (server side render)
 
 AJAX - SPA (single page application)
@@ -13,7 +16,7 @@ Biblioteca para UI de forma declarativa.
 Declara o estado os componentes JSX vai reagir ao estado
 
 
-Configurando um ambiente React
+<h2>Configurando um ambiente React</h2>
 
 Se você possui o NPM e o Node.js instalados, é possível criar um aplicativo React instalando primeiro o aplicativo create-react-app.
 
